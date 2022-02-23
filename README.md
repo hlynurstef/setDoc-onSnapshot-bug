@@ -1,5 +1,8 @@
 This is a sample app to reproduce a bug with setDoc and onSnapshot
 
+Issue: https://github.com/firebase/firebase-js-sdk/issues/6026
+> Firestore: onSnapshot triggers onNext when setDoc fails
+
 ---
 
 ### Prerequisites
